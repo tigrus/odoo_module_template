@@ -1,2 +1,2 @@
 # odoo_module_template
-Dump Odoo Module Template
+Dumb Odoo Module Template
